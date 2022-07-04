@@ -1,1 +1,0 @@
-{"gui":{"general":{"printername":"Kohon KH-01"},"dashboard":{"boolWebcam":false,"boolTempchart":true,"boolConsole":false,"hiddenMacros":[],"hiddenTempChart":[]},"webcam":{"url":"http://192.168.2.104/webcam/?action=stream","rotate":false,"rotateDegrees":90,"flipX":false,"flipY":false,"bool":true},"gcodefiles":{"countPerPage":10},"settings":{"configfiles":{"countPerPage":10}}}}
